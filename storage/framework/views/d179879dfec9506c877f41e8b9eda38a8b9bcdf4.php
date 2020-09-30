@@ -1,0 +1,1 @@
+<?php /**PATH C:\xampp\htdocs\malvinasania\resources\views/layouts/siderbar.blade.php ENDPATH**/ ?>
